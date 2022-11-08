@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3958837332273375731}
   - component: {fileID: 3958837332273375732}
   - component: {fileID: 3958837332273375733}
+  - component: {fileID: -2076245463718261445}
   m_Layer: 0
   m_Name: Whiteboard
   m_TagString: Whiteboard
@@ -113,3 +114,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   texture: {fileID: 0}
   textureSize: {x: 4096, y: 2048}
+--- !u!65 &-2076245463718261445
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3958837332273375734}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 10.000005, y: 0.00000041723254, z: 10.000001}
+  m_Center: {x: 0, y: 0, z: 0}
